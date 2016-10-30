@@ -5,3 +5,8 @@ When multiple people are collaborating or if you intend on keeping your work bac
 2) Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 
 auto pushing may update files before you feel they are ready.
+
+3) Describe the differences between forks, clones, and branches. When would you use one instead of another?
+Forks essentially copy another creators work while giving them credit for the work done.
+Cones clone a repository onto your local drive
+Branches are lines of work consisting of commits
