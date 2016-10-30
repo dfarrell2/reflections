@@ -1,12 +1,13 @@
 1) When would you want to use a remote repository rather than keeping all your work local?
-
-When multiple people are collaborating or if you intend on keeping your work backed up.
+		When multiple people are collaborating or if you intend on keeping your work backed up.
 
 2) Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+		auto pushing may update files before you feel they are ready.
 
-auto pushing may update files before you feel they are ready.
+3) Describe the differences between forks, clones, and branches. When would you 	   use one instead of another?
+		Forks essentially copy another creators work while giving them credit for the work done.
+		Cones clone a repository onto your local drive
+		Branches are lines of work consisting of commits
 
-3) Describe the differences between forks, clones, and branches. When would you use one instead of another?
-Forks essentially copy another creators work while giving them credit for the work done.
-Cones clone a repository onto your local drive
-Branches are lines of work consisting of commits
+4) What is the benefit of having a copy of the last known state of the remote stored locally?
+		This provides the ability to run git diff from any locally updated work to the last version on GitHub. This can be helpful when needing to work offline.
