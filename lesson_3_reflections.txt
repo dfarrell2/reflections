@@ -1,1 +1,2 @@
-When would you want 
+1) When would you want to use a remote repository rather than keeping all your work local?
+When multiple people are collaborating or if you intend on keeping your work backed up.
